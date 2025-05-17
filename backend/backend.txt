@@ -1,1 +1,2 @@
-here will be the code for the backend of the cheftlog.
+here will be the code for the backend of the cheftlog. 
+written with javascript.

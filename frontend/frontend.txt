@@ -1,1 +1,2 @@
 here will be the code for the front for the cheflog.
+written in the the javascript.
